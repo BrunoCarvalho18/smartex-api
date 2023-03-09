@@ -61,7 +61,7 @@
 				<version>2.22.2</version>
 				<configuration>
 					<includes>
-						<include>pt/com/automacaoapi/smartex/runner/*.java</include>
+						<include>pt/com/automacaoapi/smartex/*.java</include>
 					</includes>
 					<parallel>all</parallel>
 					<threadCount>2</threadCount>
