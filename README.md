@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Smartex API
+  Smartex Challenge
 </h1>
 
 
@@ -11,6 +11,7 @@
 
 - Java
 - Rest Assured
+- Gson
 
 
 ## 🔤 **Design Pattern**
