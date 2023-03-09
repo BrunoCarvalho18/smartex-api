@@ -17,3 +17,7 @@
 ## 🔤 **Design Pattern**
 
 - Service Objects
+
+## :octocat: **Improvements and Bugs
+
+- Application return status code 429, but should return 200.
